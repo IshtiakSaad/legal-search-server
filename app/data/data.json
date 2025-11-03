@@ -1,0 +1,17 @@
+[
+  {
+    "id": "doc_1",
+    "title": "Last Will and Testament",
+    "content": "This is the Last Will and Testament of John A. Doe.\n\nI, John A. Doe, a resident of Springfield, Anystate, declare this to be my Last Will and Testament. I revoke all prior wills and codicils.\n\nARTICLE I: FAMILY\nI am married to Jane S. Doe ('my spouse'). I have two (2) children: Robert P. Doe and Emily L. Doe.\n\nARTICLE II: EXECUTOR\nI nominate my spouse, Jane S. Doe, as Executor of this Will. If she is unable or unwilling to serve, I nominate my brother, Mark T. Doe, as alternate Executor.\n\nARTICLE III: DISPOSITION OF PROPERTY\nI give, devise, and bequeath all of my property, real and personal, to my spouse, Jane S. Doe. If my spouse predeceases me, I give all of my property to my children in equal shares."
+  },
+  {
+    "id": "doc_2",
+    "title": "Non-Disclosure Agreement (NDA)",
+    "content": "This Non-Disclosure Agreement (the 'Agreement') is entered into by and between Acme Innovations Inc. ('Disclosing Party') and Future Gadgets LLC ('Receiving Party'), effective as of November 2, 2025.\n\n1. DEFINITION OF CONFIDENTIAL INFORMATION.\n'Confidential Information' includes all information, whether written or oral, disclosed by Disclosing Party to Receiving Party that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.\n\n2. OBLIGATIONS OF RECEIVING PARTY.\nReceiving Party shall:\n(a) Use the Confidential Information solely for the purpose of evaluating a potential business relationship ('the Purpose').\n(b) Not disclose the Confidential Information to any third party.\n(c) Take reasonable measures to protect the confidentiality of the Confidential Information.\n\n3. TERM.\nThis Agreement shall govern all disclosures made for a period of two (2) years from the effective date."
+  },
+  {
+    "id": "doc_3",
+    "title": "Residential Lease Agreement",
+    "content": "This Lease Agreement (the 'Lease') is made on this 2nd day of November, 2025, by and between Sarah Landlord ('Landlord') and Thomas Tenant ('Tenant').\n\n1. PREMISES.\nLandlord leases to Tenant the property located at 123 Main Street, Apt 4B, Springfield, Anystate (the 'Premises').\n\n2. TERM.\nThe term of this Lease is for twelve (12) months, beginning on December 1, 2025, and ending on November 30, 2026.\n\n3. RENT.\nTenant agrees to pay Landlord a monthly rent of $1,200.00 (One Thousand Two Hundred Dollars), due on the first (1st) day of each month.\n\n4. SECURITY DEPOSIT.\nUpon execution of this Lease, Tenant shall pay Landlord a security deposit of $1,200.00."
+  }
+]
