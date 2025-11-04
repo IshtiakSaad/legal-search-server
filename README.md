@@ -16,9 +16,9 @@ legal-search-server/
 └── run_backend.sh            # Setup & run script
 ```
 ## Setup & Run 
-```
-The included `run_backend.sh` script automates the entire setup and launch process.
 
+The included `run_backend.sh` script automates the entire setup and launch process.
+```
 # Make the run script executable
 chmod +x run_backend.sh
 
