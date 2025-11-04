@@ -1,6 +1,6 @@
 # Legal Document Search - Server
 
-This directory contains the FastAPI backend for the Legal Document Search client side. It is a mock API designed to serve a React frontend.
+This directory contains the FastAPI backend for the Legal Document Search [client side](https://github.com/IshtiakSaad/legal-search-client). It is a mock API designed to serve a React frontend.
 
 Project Structure
 ```
@@ -18,9 +18,6 @@ legal-search-server/
 ## Setup & Run 
 ```
 The included `run_backend.sh` script automates the entire setup and launch process.
-
-# Navigate to the backend directory
-cd backend
 
 # Make the run script executable
 chmod +x run_backend.sh
