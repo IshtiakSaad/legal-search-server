@@ -19,15 +19,7 @@ legal-search-server/
 
 The included `run_backend.sh` script automates the entire setup and launch process.
 ```
-# Make the run script executable
-chmod +x run_backend.sh
-
-# Run the script
-# This will:
-# 1. Create a virtual environment ('venv') if one doesn't exist
-# 2. Activate the virtual environment
-# 3. Install all dependencies from requirements.txt
-# 4. Start the Uvicorn server
+# Run the script in command line
 ./run_backend.sh
 ```
 
