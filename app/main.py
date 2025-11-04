@@ -36,7 +36,7 @@ async def get_root():
 async def generate_ducument_summary(request: GenerateRequest):
     print(f"Recieved Query: {request.query}")
 
-    time.sleep(2.5)
+    time.sleep(1)
 
     if request.query.strip().lower() == 'error':
         raise HTTPException(
@@ -45,15 +45,17 @@ async def generate_ducument_summary(request: GenerateRequest):
         )
     
     chosen_document = get_mock_document()
+    # print(chosen_document)
 
     summary = (
         f"Requested Query: '{request.query}'.\n"
         f"The document found is '{chosen_document['title']}'."
-    )
+    )   
 
     return {
         "query" : request.query,
         "summary" : summary,
+        "heading" : chosen_document['title'],
         "document" : chosen_document['content']
     }
 

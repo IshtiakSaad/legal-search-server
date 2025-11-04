@@ -6,4 +6,5 @@ class GenerateRequest(BaseModel):
 class GenerateResponse(BaseModel):
     query: str
     summary: str
+    heading: str
     document: str
