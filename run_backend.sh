@@ -29,5 +29,5 @@ echo "Press CTRL+C to stop the server."
 echo ""
 
 # Finally, run the FastAPI app with uvicorn
-# uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
-uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000} --reload
+uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+# uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000} --reload
